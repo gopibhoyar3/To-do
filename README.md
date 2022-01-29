@@ -9,3 +9,5 @@ The main features are as follows
 4. Delete task
 
 This project is created using HTML, CSS, Javascript and ReactJS.
+
+![to-do](https://user-images.githubusercontent.com/51265433/151645311-f309c01a-523b-49e1-a86a-d6caa1e22cd6.png)
